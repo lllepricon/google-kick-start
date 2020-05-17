@@ -1,2 +1,5 @@
 # google-kick-start
-My solutuíons on several Kickstart Projects [starting on 2020] written on Python
+Here are solutuíons on several Kickstart Problems [starting from 2020 Round C] written on Python.
+
+These might be not enough optimized >>> give a feedback if you would like to <<<
+
