@@ -1,4 +1,4 @@
-def solve(l,num, ar):
+def findCount(l,num, ar):
     y = 0
     comp = []
     for n in range(0,num):
